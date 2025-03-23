@@ -17,14 +17,11 @@
 
 ### Установка и запуск приложения
 
-Необходимо выполнить следующий набор команд в консоли:
+Необходимо выполнить последовательно следующий набор команд в консоли:
 
 ```console
 git clone https://github.com/Tyoma-Pi/course-app
-
 cd course-app
-
 mvn package
-
 java -jar .\target\course-app-1.0-SNAPSHOT.jar
 ```
