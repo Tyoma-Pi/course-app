@@ -19,7 +19,7 @@
 
 Необходимо выполнить последовательно следующий набор команд в консоли:
 
-```console
+```
 git clone https://github.com/Tyoma-Pi/course-app
 cd course-app
 mvn package
