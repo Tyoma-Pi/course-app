@@ -22,6 +22,6 @@
 ```
 git clone https://github.com/Tyoma-Pi/course-app
 cd course-app
-mvn package
+mvn compile assembly:single
 java -jar .\target\course-app-1.0-SNAPSHOT.jar
 ```
